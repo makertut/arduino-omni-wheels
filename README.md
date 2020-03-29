@@ -17,3 +17,6 @@ Arduino Sketch code [>>> Click Here <<<](https://github.com/makertut/arduino-omn
 
 <br><b>Diagram schematic</b>
 <br><br>![Maker Tutor](https://1.bp.blogspot.com/-Tw1S66eQrh0/XoBelexFkoI/AAAAAAABcnw/w-pbycYZVGcyOKv7gmfK3LMLw8MMpet-QCNcBGAsYHQ/s640/bluetooth1.png)
+
+
+[![Maker Tutor](https://img.youtube.com/vi/6cvBGsf0GO8/0.jpg)](https://www.youtube.com/watch?v=Y6cvBGsf0GO8)
