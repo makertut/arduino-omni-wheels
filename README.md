@@ -12,3 +12,6 @@ This is Arduino-based,Bluetooth controlled RC car.IT is controlled by a Android 
 <br>![Maker Tutor](https://hackster.imgix.net/uploads/attachments/223231/ZwtDLH05zcct5UScEslj.jpg?auto=compress%2Cformat&w=140&h=140&fit=fill&bg=ffffff)
 <br>4. DC Motor
 <br>![Maker Tutor](https://hackster.imgix.net/uploads/attachments/834929/28C5043-40.jpg?auto=compress%2Cformat&w=140&h=140&fit=fill&bg=ffffff)
+
+<br>Diagram schematic
+<br>![Maker Tutor](https://1.bp.blogspot.com/-Tw1S66eQrh0/XoBelexFkoI/AAAAAAABcnw/w-pbycYZVGcyOKv7gmfK3LMLw8MMpet-QCNcBGAsYHQ/s640/bluetooth1.png)
