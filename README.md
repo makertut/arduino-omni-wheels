@@ -2,6 +2,8 @@
 Arduino Bluetooth Controlled Omni Wheels Car<br>
 This is Arduino-based,Bluetooth controlled RC car.IT is controlled by a Android smart phone application
 
+Arduino Sketch code [Maker Tutor](https://github.com/makertut/arduino-omni-wheels/blob/master/omni_wheels.ino ">>> Click Here <<<")
+
 <b>Components and Supplies</b>
 
 <br>1. Arduino Board
